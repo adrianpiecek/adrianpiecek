@@ -45,7 +45,6 @@ Here are a few projects I'm particularly proud of:
 
 ### 📫 Let's Connect!  
 - **LinkedIn:** [Adrian Piecek](www.linkedin.com/in/adrian-piecek-76b116244)  
-- **GitHub:** [@adrianpiecek](https://github.com/adrianpiecek)  
 - **Email:** adrian.piecek@gmail.com  
 
 ---
