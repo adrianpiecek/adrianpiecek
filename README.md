@@ -51,4 +51,3 @@ Here are a few projects I'm particularly proud of:
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=adrianpiecek&color=blue&style=flat)
-"# adrianpiecek" 
