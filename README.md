@@ -30,9 +30,9 @@
 
 ### ✨ Projects  
 Here are a few projects I'm particularly proud of:  
-- **[Gigathon Final](#)** – Supported the technical organization and judged a programming competition for young programmers.  
-- **[ERP System Development](#)** – Internship project focused on developing ERP systems using Microsoft Business Central and .NET.  
-- **[Programming Education](#)** – Educated students aged 7-18 in programming languages such as Python, C, and C++.
+- **[Gigathon Final](https://www.linkedin.com/posts/adrian-piecek-76b116244_gigathon-giganciprogramowania-programowanie-activity-7267637137703878656-w22r?utm_source=share&utm_medium=member_desktop)** – Supported the technical organization and judged a programming competition for young programmers.  
+- **[ERP System Development](https://github.com/adrianpiecek/ALProject1)** – Internship project focused on developing ERP systems using Microsoft Business Central and .NET.  
+- **[Programming Education](#)** – Educated students aged 7-18 in programming languages such as Python, C, C# and Lua.
 - **[2D Platformer Game](#)** – Hobby project using **Godot Engine** and **GDScript** to create a dynamic platformer experience.    
 
 ---
