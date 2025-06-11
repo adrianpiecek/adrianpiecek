@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Adrian Piecek!  
+# Adrian Piecek
 
-### 🚀 About Me  
+### About Me  
 - 💻 Aspiring **Software Engineer** and **Data Analyst**.  
 - 🎓 Studying Computer Science at **Military University of Technology (WAT)**, specializing in **Systems Engineering**.  
 - 🏗️ Passionate about **building software solutions**, **teaching programming**, and **analyzing data**.
@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Technologies & Skills  
+### Technologies & Skills  
 - **Languages:**  
   ![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white)  
   ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
@@ -28,22 +28,21 @@
 
 ---
 
-### ✨ Projects  
+### Projects  
 Here are a few projects I'm particularly proud of:  
 - **[Gigathon Final](https://www.linkedin.com/posts/adrian-piecek-76b116244_gigathon-giganciprogramowania-programowanie-activity-7267637137703878656-w22r?utm_source=share&utm_medium=member_desktop)** – Supported the technical organization and judged a programming competition for young programmers.  
 - **[ERP System Development](https://github.com/adrianpiecek/ALProject1)** – Internship project focused on developing ERP systems using Microsoft Business Central and .NET.  
-- **[Programming Education](#)** – Educated students aged 7-18 in programming languages such as Python, C, C# and Lua.
-- **[2D Platformer Game](#)** – Hobby project using **Godot Engine** and **GDScript** to create a dynamic platformer experience.    
+- **[Programming Education](#)** – Educated students aged 7-18 in programming languages such as Python, C, C# and Lua. 
 
 ---
 
-### 🌱 Currently Learning  
+### Currently Learning  
 - Advanced **data analysis** and **machine learning** techniques using Python.  
 - Modern **software architecture** 
 
 ---
 
-### 📫 Let's Connect!  
+### Let's Connect
 - **LinkedIn:** [Adrian Piecek](www.linkedin.com/in/adrian-piecek-76b116244)  
 - **Email:** adrian.piecek@gmail.com  
 
