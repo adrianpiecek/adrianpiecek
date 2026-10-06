@@ -8,7 +8,7 @@ B.Eng. in Computer Science from the Military University of Technology (WAT).
 - Designing and building a procurement module from scratch: specs, data model, OData APIs and an approval workflow engine
 - Teaching programming (Python, JavaScript) to kids and teenagers since 2021
 
-**Tech:** Python · Java · AL · C# · SQL · Azure · Git · Docker
+**Tech:** Python · Java · AL · C# · SQL · Azure · Git
 
 **Featured projects**
 - [Beehive Concurrency Simulation](https://github.com/adrianpiecek/Projekt_Ul): Java multithreading with semaphores, atomics and thread pools, visualized in JavaFX
